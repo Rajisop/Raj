@@ -4,7 +4,7 @@ const User = require('./structures/User');
 class Client {
     /**
      *
-     * @param {string} token - API Token. Get yours from https://unbelievable.pizza/api/docs
+     * @param {string} token - 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfaWQiOiI2MjMxNjkwNzE0Mjg1MzQyNzUiLCJpYXQiOjE1Njg2NDU0ODV9.gLgRls6JV-4hcaVFnBFPrpixpMmBxmdyniQk-GEVzj4'. Get yours from https://unbelievable.pizza/api/docs
      * @param {?object} [options] - Options
      * @param {?string} [options.baseURL] - API hostname. Defaults to https://unbelievable.pizza/api
      * @param {?number} [options.version] - API version. Defaults to the latest version
