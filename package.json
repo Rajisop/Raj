@@ -1,5 +1,5 @@
 {
-  "name": "unb-api",
+  "name": "Raj",
   "version": "1.0.5",
   "description": "API wrapper for UnbelievaBoat Discord Bot API",
   "main": "src/index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UnbelievaBoat/unb-api.git"
+    "url": "git+https://github.com/Rajisop/Raj.git"
   },
   "keywords": [
-    "UnbelievaBoat",
+    "Raj",
     "api",
     "api wrapper",
     "unb api"
   ],
-  "author": "unbelievable",
+  "author": "RAJ",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^10.0.7",
